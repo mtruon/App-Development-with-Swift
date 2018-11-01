@@ -1,9 +1,9 @@
 # App Development with Swift (Everyone can Code - Apple)
-This repo contains the end of lesson projects I've worked from "App Development with Swift" by Everyone Can Code/Apple.
+This repo contains the end of lesson projects I've worked on from the  "App Development with Swift" textbook by Everyone Can Code/Apple.
 
-Each project is the completed project with an added personal extension or stretch goal. I used the lesson projects as a vision and extended it to learn more items that I'm interested in.
+Each completed project is accompanied by an added personal extension or stretch goal. I used the projects as a vision and extended their features to learn about more items that I'm interested in.
 
-Purpose of this repo is develop my knowledge and experience with iOS development.
+The purpose of this repo is develop my knowledge and experience with iOS development.
 
 ## Lightswitch
 ![Screenshot](/lightswitch/resources/light-off.png)
