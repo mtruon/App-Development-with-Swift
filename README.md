@@ -9,6 +9,6 @@ Purpose of this repo is develop my knowledge and experience with iOS development
 ![Screenshot](/lightswitch/resources/light-off.png)
 ![Screenshot](/lightswitch/resources/light-on.png)
 * Added an imageview button that is based off of Font Awesome's lightbulb SVG
-* Added an animated interaction
+* Added animated interactions
 * Added a shadow
 * Added autolayout and constraints
