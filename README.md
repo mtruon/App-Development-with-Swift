@@ -6,8 +6,8 @@ Each project is the completed project with an added personal extension or stretc
 Purpose of this repo is develop my knowledge and experience with iOS development.
 
 ## Lightswitch
-![Screenshot](/lightswitch/resources/light-off.png)
-![Screenshot](/lightswitch/resources/light-on.png)
+![Screenshot](/lightswitch/resources/light-off.png | height=400)
+![Screenshot](/lightswitch/resources/light-on.png | height=400)
 * Added an imageview button that is based off of Font Awesome's lightbulb SVG
 * Added an animated interaction
 * Added a shadow
