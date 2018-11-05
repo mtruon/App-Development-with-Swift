@@ -19,3 +19,4 @@ The purpose of this repo is develop my knowledge and experience with iOS develop
 ![Screenshot](/Login/Resources/3.png)
 * Learned to use segues
 * Created a login flow that was based on the light switch
+* Used extensions to do an underline text field
