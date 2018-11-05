@@ -12,3 +12,10 @@ The purpose of this repo is develop my knowledge and experience with iOS develop
 * Added animated interactions
 * Added a shadow
 * Added autolayout and constraints
+
+## Login Flow
+![Screenshot](/Login/Resources/1.png)
+![Screenshot](/Login/Resources/2.png)
+![Screenshot](/Login/Resources/3.png)
+* Learned to use segues
+* Created a login flow that was based on the light switch
