@@ -20,3 +20,7 @@ The purpose of this repo is develop my knowledge and experience with iOS develop
 * Learned to use segues
 * Created a login flow that was based on the light switch
 * Used extensions to do an underline text field
+
+## Calorie Tool
+See: https://github.com/mtruon/calorie-tool
+* Implemented models, view controllers, and more together
