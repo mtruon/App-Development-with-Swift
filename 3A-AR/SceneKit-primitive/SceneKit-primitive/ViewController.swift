@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  ARKit-template
+//  SceneKit-primitive
 //
-//  Created by MICHAEL on 2019-02-08.
+//  Created by MICHAEL on 2019-02-09.
 //  Copyright © 2019 Michael Truong. All rights reserved.
 //
 
@@ -23,13 +23,21 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         // Show statistics such as fps and timing information
         sceneView.showsStatistics = true
         
-        // Create a new scene
-        let scene = SCNScene(named: "art.scnassets/ship.scn")!
-        scene.color
-        
-        // Set the scene to the view
-        sceneView.scene = scene
+        // Display the world origin
         sceneView.debugOptions = [ARSCNDebugOptions.showWorldOrigin]
+        
+
+        loadCampus()
+    }
+    
+    func loadCampus() {
+        let scene = SCNScene(named: "art.scnassets/campus.scn")!
+        sceneView.scene = scene
+    }
+    
+    func loadMainCampus() {
+        let node = SCNNode()
+        node.position
     }
     
     override func viewWillAppear(_ animated: Bool) {
